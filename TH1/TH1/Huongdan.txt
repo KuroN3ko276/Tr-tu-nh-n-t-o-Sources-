@@ -1,0 +1,5 @@
+﻿File input,ouput ở trong đường dẫn \bin\Debqug\net6.0
+Định dạng file input:
+- Dòng đầu chứa 1 số nguyên là: n số đường đi giữa các đỉnh
+- Dòng thứ 2 là đỉnh bắt đầu, đỉnh kết thúc
+- n dòng tiếp theo, mỗi dòng chứa 2 đỉnh u và v (đường đi từ u tới v)

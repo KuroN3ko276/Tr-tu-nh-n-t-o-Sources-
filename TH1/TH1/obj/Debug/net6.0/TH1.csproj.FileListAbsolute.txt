@@ -1,0 +1,14 @@
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.AssemblyInfoInputs.cache
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.AssemblyInfo.cs
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\bin\Debug\net6.0\TH1.exe
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\bin\Debug\net6.0\TH1.deps.json
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\bin\Debug\net6.0\TH1.runtimeconfig.json
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\bin\Debug\net6.0\TH1.dll
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\bin\Debug\net6.0\TH1.pdb
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.dll
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\refint\TH1.dll
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.pdb
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\TH1.genruntimeconfig.cache
+D:\Tài liệu\Học kì 6\Trí tuệ nhân tạo\Sources code\TH1\TH1\obj\Debug\net6.0\ref\TH1.dll
